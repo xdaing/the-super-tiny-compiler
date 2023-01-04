@@ -1,0 +1,10 @@
+{
+  "name": "tiny-compiler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "miemie",
+  "license": "MIT",
+  "devDependencies": {
+    "vitest": "^0.26.3"
+  }
+}
